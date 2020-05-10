@@ -194,12 +194,12 @@ garantia.
 ________________________
 
 ## Lista de Serviços
-Consultoria Técnica
-Gestão de obras
-Projetos
-Perícia Judicial
-Perícia extra Judicial
-Laudos
-Assistência Técnica Judicial
-Eng. Segurança do Trabalho
+* Consultoria Técnica
+* Gestão de obras
+* Projetos
+* Perícia Judicial
+* Perícia extra Judicial
+* Laudos
+* Assistência Técnica Judicial
+* Eng. Segurança do Trabalho
 
