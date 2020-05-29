@@ -211,3 +211,20 @@ ________________________
 * Assistência Técnica Judicial
 * Eng. Segurança do Trabalho
 
+________________________
+
+## Engenharia Civil                             
+1 - Consultoria Técnica
+2 - Gestão de obras
+3 - Projetos
+
+## Engenharia Diagnóstica               
+1 - Perícia Judicial
+2 - Assistência Técnica Judicial
+3 - Perícia extrajudicial
+
+## Engenharia Segurança do Trabalho        
+1 - Elaboração de projetos em âmbito de saúde e seg. o trabalho
+2 - Elaboração de laudos periciais
+3 - Gerenciamento e controle de riscos
+4 - Acompanhamento em execução de obras para promover segurança
