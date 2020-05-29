@@ -702,6 +702,25 @@ features
   font-weight: 500;
 }
 
+.icones{
+  background-color: #ed563b;
+  height: 100px;
+  width: 100px;
+  float: left;
+  margin-right: 30px;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  text-align: center;
+  padding-top: 15px;
+ 
+}
+
+.material-icons{
+  font-size: 70px;
+  color: white;
+}
+
 /*
 ---------------------------------------------
 subscribe
@@ -710,7 +729,7 @@ subscribe
 
 #call-to-action {
   padding: 120px 0px;
-  background-image: url(../images/cta-bg.jpg);
+  background-image: url(../images/ponte.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;

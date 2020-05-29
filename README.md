@@ -14,6 +14,14 @@ otimiza-las, para auxiliar nossos clientes em suas dificuldades e questões,
 visando sempre proporcionar maior controle dos processos e melhorar a
 eficiência da produtividade.
 
+## Quem Somos - Revisado
+Fundada em 2013 a Astrid & Camargo é fruto do anseio de seu fundador, Jefferson da Silva Camargo, em solucionar desafios recorrentes, melhorar procedimentos e processos.
+Motivado por essa paixão seu fundador se graduou em Engenharia Civil e Engenharia de Segurança do Trabalho aos 33 anos e decidiu empreender de maneira estratégica e inovadora.
+Estrategicamente alinhou o conhecimento técnico (aprendido na universidade e em especializações) e práticos (já que atuou desde 1992 direta e indiretamente como prestador de serviços de serralheria em empreendimento de grande e pequeno porte e de diversos segmentos).
+Foi assim que nasceu a Astrid & Camargo, objetivando trazer as melhores práticas de engenharia e otimiza-las, para auxiliar nossos clientes em suas dificuldades e questões, visando sempre proporcionar maior controle dos processos e melhorar a eficiência da produtividade.
+
+
+
 ## Missão
 Fazer com que nossos serviços, se torne a ligação, entre a sociedade e o
 conhecimento técnico e especializado em tudo relacionado à engenharia
