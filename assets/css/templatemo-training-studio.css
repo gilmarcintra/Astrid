@@ -257,7 +257,7 @@ header
 .header-area .main-nav .logo {
   line-height: 80px;
   color: #fff;
-  font-size: 30px;
+  font-size: 28px;
   font-weight: 800;
   text-transform: uppercase;
   float: left;
@@ -496,7 +496,7 @@ header
     padding: 0px;
   }
   .header-area .logo {
-    margin-left: 30px;
+    margin-left: 0px;
   }
   .header-area .menu-trigger {
     display: block !important;
@@ -1237,7 +1237,7 @@ responsive
 @media (max-width: 992px) {
 
   .main-banner .caption h2 {
-    font-size: 50px;
+    font-size: 44px;
   }
   #features {
     margin-bottom: 110px;
