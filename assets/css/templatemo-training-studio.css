@@ -519,15 +519,15 @@ header
   }
   .header-area .main-nav .nav li:last-child {
     width: 100%;
-    background-color: #ed563b;
+    background-color: #00A859;
     color: #fff;
   }
   .header-area .main-nav .nav li:last-child a {
-    background-color: #ed563b!important;
+    background-color: #00A859!important;
   }
   .header-area .main-nav .nav li:last-child a:hover,
   .header-area .main-nav .nav li:last-child:hover a {
-    background-color: #ed563b!important;
+    background-color: #00A859!important;
     color: #fff!important;
   }
   .header-area.header-sticky .nav {
@@ -1237,7 +1237,7 @@ responsive
 @media (max-width: 992px) {
 
   .main-banner .caption h2 {
-    font-size: 64px;
+    font-size: 50px;
   }
   #features {
     margin-bottom: 110px;
