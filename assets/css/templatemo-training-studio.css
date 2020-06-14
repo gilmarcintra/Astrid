@@ -467,6 +467,26 @@ header
   color: #ed563b;
 }
 
+
+
+.contactMenu{
+  height: auto;
+  background-color:rgba(224, 229, 230, 0.5);
+}
+
+.material-icons.icons-banner{
+  font-size: 30px;
+  padding-top: 10px;
+  float: left;
+  color: #232D39;
+}
+
+.contactMenuTxt{
+  padding-top: 10px;
+  font-size: 20px;
+  margin-left: 40px;
+  padding-bottom: 10px;
+}
 @media (max-width: 1200px) {
   .header-area .main-nav .nav li {
     padding-left: 12px;
@@ -1109,10 +1129,7 @@ contact
   border-top-width: 5px;
 }
 
-.sendBtn{
-  padding-right: 50px; 
-  padding-left: 50px;
-}
+
 
 /* 
 ---------------------------------------------
