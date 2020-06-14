@@ -1109,6 +1109,10 @@ contact
   border-top-width: 5px;
 }
 
+.sendBtn{
+  padding-right: 50px; 
+  padding-left: 50px;
+}
 
 /* 
 ---------------------------------------------
