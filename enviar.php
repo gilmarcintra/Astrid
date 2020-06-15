@@ -38,12 +38,18 @@ if (isset($_POST['BTEnvia'])) {
  //Enviando o email 
  //==================================================== 
  if (mail ($email_destinatario, $email_assunto, nl2br($email_conteudo), $email_headers)){ 
-    header("Location: https://astridecamargoengenharia.com.br/#sucesso"); 
-    exit();
-    // echo "</b>E-Mail enviado com sucesso!</b>"; 
+    
+    echo ("<script LANGUAGE='JavaScript'>
+    window.alert('Mensagem enviada com sucesso!');
+    window.location.href='https://astridecamargoengenharia.com.br/';
+    </script>");
+
  } 
  else{ 
- echo "</b>Falha no envio do E-Mail!</b>"; } 
+    echo ("<script LANGUAGE='JavaScript'>
+    window.alert('Aconteceu algum erro ao enviar a mensagem, por favor entre em contato conosco!');
+    window.location.href='https://astridecamargoengenharia.com.br/';
+    </script>");
  //====================================================
 } 
 ?>
