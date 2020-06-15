@@ -46,10 +46,13 @@ if (isset($_POST['BTEnvia'])) {
 
  } 
  else{ 
-    echo ("<script LANGUAGE='JavaScript'>
-    window.alert('Aconteceu algum erro ao enviar a mensagem, por favor entre em contato conosco!');
-    window.location.href='https://astridecamargoengenharia.com.br/';
-    </script>");
+     
+ echo ("<script LANGUAGE='JavaScript'>
+ window.alert('Falha ao enviar mensagem, por favor entre em contato pelo telefone! ');
+ window.location.href='https://astridecamargoengenharia.com.br/';
+ </script>");
+
+} 
  //====================================================
 } 
 ?>
