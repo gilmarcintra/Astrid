@@ -474,6 +474,14 @@ header
   background-color:rgba(224, 229, 230, 0.5);
 }
 
+.celcol{
+  background-color:rgba(224, 229, 230, 0.5);
+  padding-top: 5px;
+  border-style: solid; 
+  border-color: white;
+  border-bottom-width: 1px; 
+}
+
 .material-icons.icons-banner{
   font-size: 30px;
   padding-top: 10px;
@@ -486,7 +494,31 @@ header
   font-size: 20px;
   margin-left: 40px;
   padding-bottom: 10px;
+  text-decoration: none;
 }
+
+.contactMenuTxtCel{
+  padding-top: 5px;
+  font-size: 20px;
+  padding-bottom: 10px;
+  text-decoration: none;
+}
+.material-icons.icons-banner-cel{
+  font-size: 30px;
+  padding-top: 5px;;
+  float: left;
+  color: #232D39;
+}
+
+.link{
+  text-decoration: none;
+  color: #232D39;
+}
+
+.link:hover{
+  color: #232D39;
+}
+
 @media (max-width: 1200px) {
   .header-area .main-nav .nav li {
     padding-left: 12px;
