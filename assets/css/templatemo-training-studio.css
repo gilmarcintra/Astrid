@@ -1347,3 +1347,11 @@ responsive
     font-size: 15px; 
   }
 }
+
+.whatsapp {
+  position: fixed;
+  top: 90%;
+  left: 1%;
+  padding: 10px;
+  z-index: 10000000;
+}
