@@ -38,7 +38,9 @@ if (isset($_POST['BTEnvia'])) {
  //Enviando o email 
  //==================================================== 
  if (mail ($email_destinatario, $email_assunto, nl2br($email_conteudo), $email_headers)){ 
- echo "</b>E-Mail enviado com sucesso!</b>"; 
+    header("Location: https://astridecamargoengenharia.com.br/"); 
+    exit();
+    // echo "</b>E-Mail enviado com sucesso!</b>"; 
  } 
  else{ 
  echo "</b>Falha no envio do E-Mail!</b>"; } 
